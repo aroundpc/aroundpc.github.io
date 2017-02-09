@@ -1,12 +1,9 @@
 ---
-title: Typo International Design Talks Stuff
+title: Video Transporter
 ---
 
-![Typo International]({{ site.github.url }}/assets/img/work/proj-1/img1.jpg)
+![Video Transporter]({{ site.github.url }}/assets/img/work/proj-1/img1.jpg)
 
-TYPO: International Design Talks is an annual event held in Berlin, London, and San Francisco. This promotional project is developed to market the event for the designindustry. The use of patterns, sophisticated color scheme and typography are applied for the print and mobile application.
+Video Transporter is a mobile system to transport video stream using multi-connections(3G/4G/WIFI/). It is typically used for capture news and events as they happen.
 
-![Typo International]({{ site.github.url }}/assets/img/work/proj-1/img2.jpg)
-![Typo International]({{ site.github.url }}/assets/img/work/proj-1/img3.jpg)
-![Typo International]({{ site.github.url }}/assets/img/work/proj-1/img4.jpg)
-![Typo International]({{ site.github.url }}/assets/img/work/proj-1/img5.jpg)
+

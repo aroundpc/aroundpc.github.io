@@ -10,7 +10,7 @@ email: aroundpc@163.com
 menu:
 - {name: About Me, url: '#about-me'}
 - {name: Work, url: '#work'}
-- {name: Clients, url: '#clients'}
+#- {name: Clients, url: '#clients'}
 - {name: Contact, url: '#contact'}
 
 #-------------------------------
@@ -58,14 +58,14 @@ skills:
 # Work Section
 
 projects:
-- {name: TYPO International Design Talks, folder: 'proj-1', file: 'work/proj-1.html'}
-- {name: City-IN website concept, folder: 'proj-2', file: 'work/proj-2.html'}
-- {name: Crispy Icons, folder: 'proj-3', file: 'work/proj-3.html'}
-- {name: Flat Mobile UI/UX Concept, folder: 'proj-4', file: 'work/proj-4.html'}
-- {name: Fresh It Up, folder: 'proj-5', file: 'work/proj-5.html'}
-- {name: Timeline Page, folder: 'proj-6', file: 'work/proj-6.html'}
-- {name: Weather Dashboard, folder: 'proj-7', file: 'work/proj-7.html'}
-- {name: Stripes & Co, folder: 'proj-8', file: 'work/proj-8.html'}
+- {name: Video Transporter, folder: 'proj-1', file: 'work/proj-1.html'}
+- {name: Video Transporter, folder: 'proj-2', file: 'work/proj-2.html'}
+- {name: Video Transporter, folder: 'proj-3', file: 'work/proj-3.html'}
+- {name: Video Transporter, folder: 'proj-4', file: 'work/proj-4.html'}
+- {name: Audio Capturer, folder: 'proj-5', file: 'work/proj-5.html'}
+- {name: Audio Capturer, folder: 'proj-6', file: 'work/proj-6.html'}
+- {name: Audio Capturer, folder: 'proj-7', file: 'work/proj-7.html'}
+- {name: Audio Capturer, folder: 'proj-8', file: 'work/proj-8.html'}
 
 
 
